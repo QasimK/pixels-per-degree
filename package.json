@@ -4,6 +4,7 @@
   "description": "Calculate the pixels per degree of a screen for an observer",
   "author": "QasimK",
   "license": "MIT",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/QasimK/pixels-per-degree/"
