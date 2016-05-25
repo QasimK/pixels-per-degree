@@ -7,13 +7,10 @@ Javascript library for calculating the pixels per degree of a screen for an obse
 
 - (System) install node & [npm](https://www.npmjs.com/).
 - Install dependencies inside `<project root>` with `npm install`.
-
-    # Develop with watch (lint & test)
-    npm run watch
+- Ensure you lint and test:
 
     # Lint
     npm run lint
-    npm run watch:lint
 
     # Test
     npm run test
