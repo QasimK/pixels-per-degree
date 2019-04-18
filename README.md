@@ -1,5 +1,7 @@
 # Pixels per Degree
 
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
 JavaScript library for calculating the pixels per degree of a screen for an observer.
 
 
@@ -11,10 +13,9 @@ JavaScript library for calculating the pixels per degree of a screen for an obse
 
 ```
     # Lint
-    npm run lint
-    npm run fix
+    npm run lint-fix
 
     # Test
     npm test
-    npm run watch:test
+    npm run test:watch
 ```

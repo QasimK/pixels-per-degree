@@ -11,10 +11,9 @@
   },
   "bugs": "https://github.com/QasimK/pixels-per-degree/issues/",
   "scripts": {
-    "fix": "standard --fix || true",
-    "lint": "standard --verbose | snazzy || true",
+    "lint-fix": "standard --fix",
     "test": "mocha || true",
-    "watch:test": "mocha -w"
+    "test:watch": "mocha -w"
   },
   "devDependencies": {
     "chai": "^4.2.0",
