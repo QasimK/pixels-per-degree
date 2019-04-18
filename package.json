@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Calculate the pixels per degree of a screen for an observer",
   "author": "QasimK",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
