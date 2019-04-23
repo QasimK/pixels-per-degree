@@ -4,6 +4,7 @@
 
 JavaScript library for calculating the pixels per degree of a screen for an observer.
 
+TODO: Rename hdr to colorDepth
 
 ## Development
 
